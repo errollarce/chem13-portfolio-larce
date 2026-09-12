@@ -1,0 +1,18 @@
+This project used artificial intelligence (AI) tools exclusively as an assistive aid during the development process. 
+All final decisions, data verification, analysis, and creative choices were performed and validated by the creator.
+
+Specifically, AI assistance was limited to the following tasks:
+
+Brainstorming: Generating initial ideas and possibilities for chemical compounds.
+
+Infographic Support: Suggesting potential taglines for visual presentation.
+
+Editing & Refinement: Improving overall sentence flow, clarity, and wording.
+
+Proofreading: Identifying and fixing grammatical and mechanical errors.
+
+Research Guidance: Helping formulate and identify relevant questions to guide further investigation.
+
+Data Initialization: Assisting with the initial setup or organization of baseline data for the compounds.
+
+Source Clarification: Asking for clarity regarding the context and interpretation of online sources and references.
