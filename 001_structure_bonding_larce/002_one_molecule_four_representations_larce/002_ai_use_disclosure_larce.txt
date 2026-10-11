@@ -1,0 +1,17 @@
+This project used artificial intelligence (AI) tools exclusively as an assistive aid during the development process. All final decisions, data verification, analysis, and creative choices were performed and validated by the creator. 
+
+Specifically, AI assistance was limited to the following tasks:
+
+Structural Verification Support: Assisting as a checking aid to review and verify atom counts, valences, bond orders, and structural consistency across representations (Lewis, condensed, and bond-line), while all primary structures were independently constructed, drawn, and exported using Ketcher.
+
+Conceptual Clarification: Helping explain and review foundational concepts, such as the rules for placing lone pairs, formal charges, and heteroatoms in complex organic molecules.
+
+Research Guidance: Helping formulate and identify relevant questions and authoritative resources (such as PubChem and standard organic chemistry references) to verify condensed formulas and compound properties.
+
+Editing & Refinement: Improving overall sentence flow, clarity, and wording in project notes and documentation.
+
+Proofreading: Identifying and fixing grammatical and mechanical errors in text materials.
+
+Data Initialization: Assisting with the initial setup or organization of baseline data for the 10 assigned compounds.
+
+Source Clarification: Asking for clarity regarding the context and interpretation of reference materials and structural guidelines.
