@@ -1,0 +1,9 @@
+This project used artificial intelligence (AI) tools exclusively as an assistive aid during the development process. All final decisions, data verification, analysis, and creative choices were performed and validated by the creator. AI was not used to provide complete answers; it served only to support my understanding.
+
+Specifically, AI assistance was limited to the following tasks:
+
+Conceptual Clarification: Helping explain the concepts and rules behind IUPAC nomenclature, both in naming compounds from given structures and in drawing structures from given IUPAC names. AI was used to deepen my understanding of these concepts, not to provide the final names or structures, which I worked out and determined on my own.
+
+Molecular Formula Support: Assisting with identifying the molecular formulas of the compounds. All formulas were independently verified online using reliable sources before being included in the project.
+
+Research Guidance: Helping me find reliable and authoritative sources more efficiently. This was only a convenience, since I was already able to identify the names and structures on my own.
